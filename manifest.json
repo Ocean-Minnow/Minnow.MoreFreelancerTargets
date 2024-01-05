@@ -1,10 +1,10 @@
 {
-	"version": "0.3.0",
+	"version": "0.4.0",
 	"id": "Minnow.MoreFreelancerTargets",
 	"name": "MoreFreelancerTargets",
 	"description": "Adds more potential targets to the random pool used by Freelancer's Territory Takedown (AKA 'Mild') missions.",
 	"authors": ["Minnow"],
 	"contentFolders": ["content"],
-	"frameworkVersion": "2.33.6",
-	"updateCheck": "https://github.com/Ocean-Minnow/MoreFreelancerTargets/releases/latest/download/updates.json"
+	"frameworkVersion": "2.33.7",
+	"updateCheck": "https://github.com/Ocean-Minnow/Minnow.MoreFreelancerTargets/releases/latest/download/updates.json"
 }
