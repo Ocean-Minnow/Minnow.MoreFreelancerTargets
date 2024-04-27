@@ -1,39 +1,39 @@
 {
-	"version": "0.4.1",
+	"version": "0.5.0",
 	"id": "Minnow.MoreFreelancerTargets",
 	"name": "MoreFreelancerTargets",
 	"description": "Adds more potential targets to the random pool used by Freelancer's Territory Takedown (AKA 'Mild') missions.",
 	"authors": ["Minnow"],
 	"contentFolders": ["content"],
-	"frameworkVersion": "2.33.7",
+	"frameworkVersion": "2.33.11",
 	"updateCheck": "https://github.com/Ocean-Minnow/Minnow.MoreFreelancerTargets/releases/latest/download/updates.json",
 	"options": [
-	{
-	  "name": "Paris Alerted Targets",
-	  "type": "checkbox",
-	  "tooltip": "If enabled, Paris will always have Master Mode NPCs enabled, but extra targets will be available.",
-	  "enabledByDefault": false
-	},
-	{
-	  "name": "Marrakesh Alerted Targets",
-	  "type": "checkbox",
-	  "contentFolders": ["alert/Marrakesh"],
-	  "tooltip": "If enabled, Marrakesh will always have Master Mode NPCs enabled, but extra targets will be available.",
-	  "enabledByDefault": false
-	},
-	{
-	  "name": "Bangkok Alerted Targets",
-	  "type": "checkbox",
-	  "contentFolders": ["alert/Bangkok"],
-	  "tooltip": "If enabled, Bangkok will always have Master Mode NPCs enabled, but extra targets will be available.",
-	  "enabledByDefault": false
-	},
-	{
-	  "name": "Hokkaido Alerted Targets",
-	  "type": "checkbox",
-	  "contentFolders": ["alert/Hokkaido"],
-	  "tooltip": "If enabled, Hokkaido will always have Master Mode NPCs enabled, but extra targets will be available.",
-	  "enabledByDefault": false
-	}
-]
+		{
+			"name": "Paris Alerted Targets",
+			"type": "checkbox",
+			"tooltip": "If enabled, Paris will always have Master Mode NPCs enabled, but extra targets will be available.",
+			"enabledByDefault": false
+		},
+		{
+			"name": "Marrakesh Alerted Targets",
+			"type": "checkbox",
+			"contentFolders": ["alert/Marrakesh"],
+			"tooltip": "If enabled, Marrakesh will always have Master Mode NPCs enabled, but extra targets will be available.",
+			"enabledByDefault": false
+		},
+		{
+			"name": "Bangkok Alerted Targets",
+			"type": "checkbox",
+			"contentFolders": ["alert/Bangkok"],
+			"tooltip": "If enabled, Bangkok will always have Master Mode NPCs enabled, but extra targets will be available.",
+			"enabledByDefault": false
+		},
+		{
+			"name": "Hokkaido Alerted Targets",
+			"type": "checkbox",
+			"contentFolders": ["alert/Hokkaido"],
+			"tooltip": "If enabled, Hokkaido will always have Master Mode NPCs enabled, but extra targets will be available.",
+			"enabledByDefault": false
+		}
+	]
 }
