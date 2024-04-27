@@ -202,30 +202,6 @@
 										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
 									},
 									{
-										"ref": "1d55c4fe8ad1643b",
-										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
-									}
-								]
-							},
-							{
-								"AddItemAfter": [
-									{
-										"ref": "64c1a55f7148e2df",
-										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
-									},
-									{
-										"ref": "7916ba50c55d6b5f",
-										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
-									}
-								]
-							},
-							{
-								"AddItemAfter": [
-									{
-										"ref": "64c1a55f7148e2df",
-										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
-									},
-									{
 										"ref": "1674e3cd87d7417d",
 										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
 									}
@@ -311,18 +287,6 @@
 									},
 									{
 										"ref": "a717122cfbc02cbf",
-										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
-									}
-								]
-							},
-							{
-								"AddItemAfter": [
-									{
-										"ref": "64c1a55f7148e2df",
-										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
-									},
-									{
-										"ref": "ff44f1386e22def5",
 										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
 									}
 								]
@@ -503,18 +467,6 @@
 									},
 									{
 										"ref": "5f4102ffe449f799",
-										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
-									}
-								]
-							},
-							{
-								"AddItemAfter": [
-									{
-										"ref": "64c1a55f7148e2df",
-										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
-									},
-									{
-										"ref": "7412559d3ac67027",
 										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
 									}
 								]
