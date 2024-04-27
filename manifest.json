@@ -11,6 +11,7 @@
 		{
 			"name": "Paris Alerted Targets",
 			"type": "checkbox",
+			"contentFolders": ["alert/Paris"],
 			"tooltip": "If enabled, Paris will always have Master Mode NPCs enabled, but extra targets will be available.",
 			"enabledByDefault": false
 		},
