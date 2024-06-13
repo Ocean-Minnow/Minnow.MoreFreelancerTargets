@@ -112,15 +112,6 @@
 								"AddItemAfter": [
 									"053fd07f44cd66fd",
 									{
-										"ref": "61175ae80f6cbe67",
-										"externalScene": "[assembly:/_pro/scenes/missions/elegant/scenario_llama.brick].pc_entitytype"
-									}
-								]
-							},
-							{
-								"AddItemAfter": [
-									"053fd07f44cd66fd",
-									{
 										"ref": "6e6da8f16dcedb14",
 										"externalScene": "[assembly:/_pro/scenes/missions/elegant/scenario_llama.brick].pc_entitytype"
 									}
