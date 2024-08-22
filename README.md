@@ -6,4 +6,4 @@ Adds more potential targets to the random pool used by Freelancer's Territory Ta
 
 ---
 
-`Minnow.MoreFreelancerTargets` v0.7.1, by Minnow. This README was automatically generated from the mod's manifest.
+`Minnow.MoreFreelancerTargets` v0.8.0, by Minnow. This README was automatically generated from the mod's manifest.
