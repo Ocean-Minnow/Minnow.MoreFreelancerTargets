@@ -319,15 +319,6 @@
 								"AddItemAfter": [
 									"217f0c14c3e2938c",
 									{
-										"ref": "6979f1b63e899db5",
-										"externalScene": "[assembly:/_pro/scenes/missions/theark/scenario_magpie.brick].pc_entitytype"
-									}
-								]
-							},
-							{
-								"AddItemAfter": [
-									"217f0c14c3e2938c",
-									{
 										"ref": "adfae088b228f34e",
 										"externalScene": "[assembly:/_pro/scenes/missions/theark/scenario_magpie.brick].pc_entitytype"
 									}
