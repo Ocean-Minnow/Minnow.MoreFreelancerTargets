@@ -618,15 +618,6 @@
 										"ref": "876f5072e0caf72a",
 										"externalScene": "[assembly:/_pro/scenes/missions/paris/gameplay_palace_fashionshow.brick].pc_entitytype"
 									},
-									"853b7ebac8eb11d1"
-								]
-							},
-							{
-								"AddItemAfter": [
-									{
-										"ref": "876f5072e0caf72a",
-										"externalScene": "[assembly:/_pro/scenes/missions/paris/gameplay_palace_fashionshow.brick].pc_entitytype"
-									},
 									"4b648a5249b13341"
 								]
 							},
