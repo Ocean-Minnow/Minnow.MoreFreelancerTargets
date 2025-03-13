@@ -2,39 +2,9 @@
 	"version": "0.9.0",
 	"id": "Minnow.MoreFreelancerTargets",
 	"name": "MoreFreelancerTargets",
-	"description": "Adds more potential targets to the random pool used by Freelancer's Territory Takedown (AKA 'Mild') missions.",
+	"description": "Adds more potential targets to the random pool used by Freelancer's Territory Takedown missions.",
 	"authors": ["Minnow"],
 	"contentFolders": ["content"],
 	"frameworkVersion": "2.33.21",
-	"updateCheck": "https://github.com/Ocean-Minnow/Minnow.MoreFreelancerTargets/releases/latest/download/updates.json",
-	"options": [
-		{
-			"name": "Paris Alerted Targets",
-			"type": "checkbox",
-			"contentFolders": ["alert/Paris"],
-			"tooltip": "If enabled, Paris will always have Master Mode NPCs enabled, but extra targets will be available.",
-			"enabledByDefault": false
-		},
-		{
-			"name": "Marrakesh Alerted Targets",
-			"type": "checkbox",
-			"contentFolders": ["alert/Marrakesh"],
-			"tooltip": "If enabled, Marrakesh will always have Master Mode NPCs enabled, but extra targets will be available.",
-			"enabledByDefault": false
-		},
-		{
-			"name": "Bangkok Alerted Targets",
-			"type": "checkbox",
-			"contentFolders": ["alert/Bangkok"],
-			"tooltip": "If enabled, Bangkok will always have Master Mode NPCs enabled, but extra targets will be available.",
-			"enabledByDefault": false
-		},
-		{
-			"name": "Hokkaido Alerted Targets",
-			"type": "checkbox",
-			"contentFolders": ["alert/Hokkaido"],
-			"tooltip": "If enabled, Hokkaido will always have Master Mode NPCs enabled, but extra targets will be available.",
-			"enabledByDefault": false
-		}
-	]
+	"updateCheck": "https://github.com/Ocean-Minnow/Minnow.MoreFreelancerTargets/releases/latest/download/updates.json"
 }
