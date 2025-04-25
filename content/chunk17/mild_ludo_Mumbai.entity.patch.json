@@ -400,18 +400,6 @@
 										"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
 									},
 									{
-										"ref": "89ddfd4dfcf826b2",
-										"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-									}
-								]
-							},
-							{
-								"AddItemAfter": [
-									{
-										"ref": "72eb2d3d06af7fcb",
-										"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-									},
-									{
 										"ref": "0aad14c3053fc7d2",
 										"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
 									}
