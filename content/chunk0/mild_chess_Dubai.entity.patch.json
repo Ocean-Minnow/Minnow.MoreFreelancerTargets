@@ -247,18 +247,6 @@
 										"externalScene": "[assembly:/_pro/scenes/missions/golden/mission_gecko/scenario_gecko.brick].pc_entitytype"
 									},
 									{
-										"ref": "0f2fafa95cf96f70",
-										"externalScene": "[assembly:/_pro/scenes/missions/golden/mission_gecko/scenario_gecko.brick].pc_entitytype"
-									}
-								]
-							},
-							{
-								"AddItemAfter": [
-									{
-										"ref": "25ebec9906c08202",
-										"externalScene": "[assembly:/_pro/scenes/missions/golden/mission_gecko/scenario_gecko.brick].pc_entitytype"
-									},
-									{
 										"ref": "aaa366a0db4a0a0b",
 										"externalScene": "[assembly:/_pro/scenes/missions/golden/mission_gecko/scenario_gecko.brick].pc_entitytype"
 									}
