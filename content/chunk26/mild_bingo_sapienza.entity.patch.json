@@ -337,15 +337,6 @@
 								"AddItemAfter": [
 									"2ca3f83b0f2e97a9",
 									{
-										"ref": "696d8f235556e374",
-										"externalScene": "[assembly:/_pro/scenes/missions/coastaltown/npc_mission_octopus.brick].pc_entitytype"
-									}
-								]
-							},
-							{
-								"AddItemAfter": [
-									"2ca3f83b0f2e97a9",
-									{
 										"ref": "4559fa27ef0a3ad5",
 										"externalScene": "[assembly:/_pro/scenes/missions/coastaltown/npc_mission_octopus.brick].pc_entitytype"
 									}
