@@ -22,42 +22,6 @@
 								"AddItemAfter": [
 									"d762e4aa215b6a40",
 									{
-										"ref": "35ffe86fe80a81b6",
-										"externalScene": "[assembly:/_pro/scenes/missions/bangkok/difficulty_pro1_bangkok_tiger.brick].pc_entitytype"
-									}
-								]
-							},
-							{
-								"AddItemAfter": [
-									"d762e4aa215b6a40",
-									{
-										"ref": "61ee7e836fc07372",
-										"externalScene": "[assembly:/_pro/scenes/missions/bangkok/difficulty_pro1_bangkok_tiger.brick].pc_entitytype"
-									}
-								]
-							},
-							{
-								"AddItemAfter": [
-									"d762e4aa215b6a40",
-									{
-										"ref": "5f261e6636d4f4e6",
-										"externalScene": "[assembly:/_pro/scenes/missions/bangkok/difficulty_pro1_bangkok_tiger.brick].pc_entitytype"
-									}
-								]
-							},
-							{
-								"AddItemAfter": [
-									"d762e4aa215b6a40",
-									{
-										"ref": "43f9a1f79c3fe54b",
-										"externalScene": "[assembly:/_pro/scenes/missions/bangkok/difficulty_pro1_bangkok_tiger.brick].pc_entitytype"
-									}
-								]
-							},
-							{
-								"AddItemAfter": [
-									"d762e4aa215b6a40",
-									{
 										"ref": "ce67c676dbc14b56",
 										"externalScene": "[assembly:/_pro/scenes/missions/bangkok/mission_tiger.brick].pc_entitytype"
 									}
@@ -472,8 +436,7 @@
 					]
 				}
 			]
-		},
-		{ "AddExternalScene": "[assembly:/_pro/scenes/missions/bangkok/difficulty_pro1_bangkok_tiger.brick].pc_entitytype" }
+		}
 	],
 	"patchVersion": 6
 }
