@@ -358,18 +358,6 @@
 										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
 									},
 									{
-										"ref": "c3bf5957230ea48b",
-										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
-									}
-								]
-							},
-							{
-								"AddItemAfter": [
-									{
-										"ref": "64c1a55f7148e2df",
-										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
-									},
-									{
 										"ref": "e22b084caabf2954",
 										"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
 									}
